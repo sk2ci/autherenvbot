@@ -1,0 +1,23 @@
+{
+  "name": "finitto-autho2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pistola.js",
+  "scripts": {
+    "start": "node pistola.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "body-parser": "^1.20.2",
+    "borgoose": "^1.0.7",
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ip-to-location": "^1.0.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.7"
+  }
+}
